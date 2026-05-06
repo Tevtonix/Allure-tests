@@ -1,0 +1,1 @@
+Status: 200, Response: [{'id': 2, 'username': 'user1', 'email': 'user1@test.com'}, {'id': 3, 'username': 'user2', 'email': 'user2@test.com'}]

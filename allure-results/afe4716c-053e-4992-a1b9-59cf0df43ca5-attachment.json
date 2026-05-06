@@ -1,0 +1,8 @@
+Request URL: https://jsonplaceholder.typicode.com/posts
+Request Body: {'title': 'New Test Post', 'body': 'This is test body', 'userId': 1}
+Response: {
+  "title": "New Test Post",
+  "body": "This is test body",
+  "userId": 1,
+  "id": 101
+}
